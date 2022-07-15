@@ -1,6 +1,6 @@
 import React from "react";
 
-const MissionVisionsection = () => {
+const MissionVisionSection = () => {
   return (
     <section className="missionvision dark-bg4 pad-tb bg-gradient3">
       <div className="container">
@@ -72,4 +72,4 @@ const MissionVisionsection = () => {
   );
 };
 
-export default MissionVisionsection;
+export default MissionVisionSection;

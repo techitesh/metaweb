@@ -1,7 +1,7 @@
 import React, { Fragment } from "react";
 import AboutSection from "../../components/AboutUs/AboutSection";
 import BreadcrumbSection from "../../components/AboutUs/BreadcrumbSection";
-import MissionVisionsection from "../../components/AboutUs/MissionVisionSection";
+import MissionVisionSection from "../../components/AboutUs/MissionVisionSection";
 import SlidebarSection from "../../components/AboutUs/SlidebarSection";
 import FeaturesSection from "../../components/AboutUs/FeaturesSection";
 import ChooseSection from "../../components/AboutUs/ChooseSeaction";
@@ -14,7 +14,7 @@ const AboutUs = () => {
       <SlidebarSection />
       <BreadcrumbSection />
       <AboutSection />
-      <MissionVisionsection />
+      <MissionVisionSection />
       <FeaturesSection />
       <ChooseSection />
       <TimelineSection />
